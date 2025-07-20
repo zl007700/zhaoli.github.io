@@ -13,7 +13,7 @@ title                    : "Li Zhao"
 title_separator          : "-"
 name                     : &name "Li Zhao"
 description              : &description "I currently serve as an Algorithm Engineer at Stepfun Technology, with my primary research focus on AI-agent applications in financial decision-making."
-url                      : https://zl007700.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://zl007700.github.io/zhaoli.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zl007700/zl007700.github.io"
 
