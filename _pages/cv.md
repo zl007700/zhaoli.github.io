@@ -19,14 +19,14 @@ Work experience
   * Huawei Tech
   * Duties includes: Android Operating System Scheduling Algorithm Optimization.
 
-* Fall 2020: Senir Algorithm Engineer
+* Fall 2020: Senior Algorithm Engineer
   * Baidu Tech
   * Duties included: 
    - R&D of Large-scale Statistical Language Models.
    - R&D of Mobile-optimized Embedded Language Models.
    - R&D of Affective Text Generation Model.
 
-* Summer 2024: Senir Algorithm Engineer
+* Summer 2024: Senior Algorithm Engineer
   * Stepfun Tech
   * Duties included: 
    - R&D of Financial Chatbot.
