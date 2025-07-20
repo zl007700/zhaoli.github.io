@@ -1,32 +1,20 @@
 ---
-title: Li Zhao | Senior Algorithm Engineer
+permalink: /
+title: "About Me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
-# Li Zhao  
-**Senior Algorithm Engineer**  
-Stepfun  
+About Me
+AI researcher and algorithm engineer building intelligent financial systems at Stepfun. Expertise in LLMs and multi-agent architectures for automated decision-making.
 
----
+Research Focus
+My primary domains include Large Language Models (LLMs) in financial applications and multi-agent system architectures for decision automation. My methodological expertise covers fine-tuning transformer-based models, designing agent coordination mechanisms for constrained environments, and applying deep learning to financial time-series analysis.
 
-## Research Focus  
-- **Primary Domains**:  
-  Large Language Models (LLMs) in financial applications  
-  Multi-agent system architectures for decision automation  
-- **Methodological Expertise**:  
-  - Fine-tuning and optimization of transformer-based models  
-  - Agent coordination mechanisms in constrained environments  
-  - Financial time-series analysis using deep learning  
+Technical Proficiencies
+Core competencies: LLM adaptation for domain-specific tasks, distributed agent system design, and financial risk modeling frameworks.
 
----
-
-## Technical Proficiencies  
-### Core Competencies  
-- LLM adaptation for domain-specific tasks  
-- Distributed agent system design  
-- Financial risk modeling frameworks  
-
-### Technical Toolset  
-- **Languages**: Python (proficient), SQL  
-- **Frameworks**: PyTorch, TensorFlow, LangChain  
-- **Infrastructure**: Docker, Kubernetes, AWS/GCP  
-- **Financial Tools**: QuantLib, RiskMetrics, Bloomberg API  
+Technical toolset: 
+Python (proficient), SQL, PyTorch, TensorFlow, LangChain, Docker, Kubernetes, AWS/GCP, QuantLib, RiskMetrics, and Bloomberg API.
